@@ -60,20 +60,20 @@
 <details>
               <summary> <td>$${\color{#FFFFFF}\verb|wow little drop down!|}$$</td></summary>
 
-inside can include socials, dni + int, stamps/blinkies (go look at my [main](https://github.com/Vexuliii) cause i have a big collection heh..), or anything else
+.
 
 </details>
 
 <details>
               <summary> <td>$${\color{#FFFFFF}\verb|wow little drop down!|}$$</td></summary>
 
-inside can include socials, dni + int, stamps/blinkies (go look at my [main](https://github.com/Vexuliii) cause i have a big collection heh..), or anything else
+.
 
 </details>
 
 <details>
               <summary> <td>$${\color{#FFFFFF}\verb|wow little drop down!|}$$</td></summary>
 
-inside can include socials, dni + int, stamps/blinkies (go look at my [main](https://github.com/Vexuliii) cause i have a big collection heh..), or anything else
+.
 
 </details>
